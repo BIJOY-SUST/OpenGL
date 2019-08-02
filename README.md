@@ -19,5 +19,5 @@ All things in this repository are very important for a graphics course. If you a
    ```
    `Run:`
    ``` 
-   $ ./firstOpenGlApp                  
+         $ ./firstOpenGlApp                  
    ```
