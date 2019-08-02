@@ -3,7 +3,8 @@ All things in this repository are very important for a graphics course. If you a
 
 
 ## Glut installation
-  
+  :+1: Below process works only for ubuntu, cause I love open source!!!:shipit:
+
   `Open a Terminal : Ctrl+Alt+t`
    
   `Run the following commands to install OpenGL :`
