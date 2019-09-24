@@ -41,7 +41,7 @@ void directMethod(){
         else{
             x = x+1;
             y = y+1;
-            d1 = 2*(ydiff) - 2*(xdiff);
+            d1 = d1 + 2*(ydiff) - 2*(xdiff);
         }
     }
 
